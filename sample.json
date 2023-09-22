@@ -1,0 +1,293 @@
+{
+  "Items": [
+    {
+      "following": { "N": "7" },
+      "followers": { "N": "9" },
+      "status": { "S": "Your worker cut social mention north out." },
+      "address": {
+        "S": "1826 Heather Mission Suite 125\nNew Nicolemouth, MA 72663"
+      },
+      "email": { "S": "erin42@hotmail.com" },
+      "name": { "S": "John Perry" },
+      "birthdate": { "S": "1948-06-03" },
+      "interests": {
+        "L": [{ "S": "we" }, { "S": "serious" }, { "S": "that" }]
+      },
+      "SK": { "S": "#METADATA#jacksonjason" },
+      "username": { "S": "jacksonjason" },
+      "pinnedImage": { "S": "PHOTO#jacksonjason#2018-05-30T15:42:38" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "0" },
+          "heart": { "N": "3" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-05-30T15:42:38.png"
+      },
+      "timestamp": { "S": "2018-05-30T15:42:38" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-05-30T15:42:38" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "0" },
+          "heart": { "N": "2" },
+          "smiley": { "N": "1" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-06-09T13:49:13.png"
+      },
+      "timestamp": { "S": "2018-06-09T13:49:13" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-06-09T13:49:13" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "3" },
+          "heart": { "N": "1" },
+          "smiley": { "N": "1" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-06-26T03:59:33.png"
+      },
+      "timestamp": { "S": "2018-06-26T03:59:33" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-06-26T03:59:33" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "0" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-07-14T10:21:01.png"
+      },
+      "timestamp": { "S": "2018-07-14T10:21:01" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-07-14T10:21:01" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "0" },
+          "heart": { "N": "1" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-10-06T22:29:39.png"
+      },
+      "timestamp": { "S": "2018-10-06T22:29:39" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-10-06T22:29:39" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "2" },
+          "+1": { "N": "1" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "3" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-11-13T08:23:00.png"
+      },
+      "timestamp": { "S": "2018-11-13T08:23:00" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-11-13T08:23:00" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "0" },
+          "heart": { "N": "1" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-11-18T15:37:05.png"
+      },
+      "timestamp": { "S": "2018-11-18T15:37:05" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-11-18T15:37:05" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "0" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2018-11-26T22:27:44.png"
+      },
+      "timestamp": { "S": "2018-11-26T22:27:44" },
+      "SK": { "S": "PHOTO#jacksonjason#2018-11-26T22:27:44" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "0" },
+          "+1": { "N": "2" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "1" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-01-02T05:09:04.png"
+      },
+      "timestamp": { "S": "2019-01-02T05:09:04" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-01-02T05:09:04" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "2" },
+          "+1": { "N": "0" },
+          "heart": { "N": "2" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-01-23T12:43:33.png"
+      },
+      "timestamp": { "S": "2019-01-23T12:43:33" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-01-23T12:43:33" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "0" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "0" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-03-03T02:00:01.png"
+      },
+      "timestamp": { "S": "2019-03-03T02:00:01" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-03-03T02:00:01" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "2" },
+          "heart": { "N": "1" },
+          "smiley": { "N": "2" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-03-03T18:20:10.png"
+      },
+      "timestamp": { "S": "2019-03-03T18:20:10" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-03-03T18:20:10" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "0" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "1" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-03-11T15:18:22.png"
+      },
+      "timestamp": { "S": "2019-03-11T15:18:22" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-03-11T15:18:22" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "0" },
+          "heart": { "N": "0" },
+          "smiley": { "N": "2" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-03-30T02:28:42.png"
+      },
+      "timestamp": { "S": "2019-03-30T02:28:42" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-03-30T02:28:42" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    },
+    {
+      "reactions": {
+        "M": {
+          "sunglasses": { "N": "1" },
+          "+1": { "N": "1" },
+          "heart": { "N": "1" },
+          "smiley": { "N": "2" }
+        }
+      },
+      "location": {
+        "S": "s3://quick-photos/photos/jacksonjason/2019-04-14T21:52:36.png"
+      },
+      "timestamp": { "S": "2019-04-14T21:52:36" },
+      "SK": { "S": "PHOTO#jacksonjason#2019-04-14T21:52:36" },
+      "username": { "S": "jacksonjason" },
+      "PK": { "S": "USER#jacksonjason" }
+    }
+  ],
+  "Count": 16,
+  "ScannedCount": 16,
+  "ResponseMetadata": {
+    "RequestId": "2N0K4LQQ82BJ23GTF8MLCOQN3BVV4KQNSO5AEMVJF66Q9ASUAAJG",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "server": "Server",
+      "date": "Fri, 22 Sep 2023 04:20:01 GMT",
+      "content-type": "application/x-amz-json-1.0",
+      "content-length": "5528",
+      "connection": "keep-alive",
+      "x-amzn-requestid": "2N0K4LQQ82BJ23GTF8MLCOQN3BVV4KQNSO5AEMVJF66Q9ASUAAJG",
+      "x-amz-crc32": "2324204400"
+    },
+    "RetryAttempts": 0
+  }
+}
