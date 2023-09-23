@@ -1,293 +1,281 @@
 {
   "Items": [
     {
-      "following": { "N": "7" },
-      "followers": { "N": "9" },
-      "status": { "S": "Your worker cut social mention north out." },
-      "address": {
-        "S": "1826 Heather Mission Suite 125\nNew Nicolemouth, MA 72663"
-      },
-      "email": { "S": "erin42@hotmail.com" },
-      "name": { "S": "John Perry" },
-      "birthdate": { "S": "1948-06-03" },
-      "interests": {
-        "L": [{ "S": "we" }, { "S": "serious" }, { "S": "that" }]
-      },
-      "SK": { "S": "#METADATA#jacksonjason" },
-      "username": { "S": "jacksonjason" },
-      "pinnedImage": { "S": "PHOTO#jacksonjason#2018-05-30T15:42:38" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#chasevang" },
+      "followedUser": { "S": "chasevang" },
+      "timestamp": { "S": "2018-09-13T08:38:08" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "0" },
-          "heart": { "N": "3" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-05-30T15:42:38.png"
-      },
-      "timestamp": { "S": "2018-05-30T15:42:38" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-05-30T15:42:38" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#david25" },
+      "followedUser": { "S": "david25" },
+      "timestamp": { "S": "2018-09-16T05:33:41" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "0" },
-          "heart": { "N": "2" },
-          "smiley": { "N": "1" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-06-09T13:49:13.png"
-      },
-      "timestamp": { "S": "2018-06-09T13:49:13" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-06-09T13:49:13" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#frankhall" },
+      "followedUser": { "S": "frankhall" },
+      "timestamp": { "S": "2019-04-19T17:21:23" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "3" },
-          "heart": { "N": "1" },
-          "smiley": { "N": "1" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-06-26T03:59:33.png"
-      },
-      "timestamp": { "S": "2018-06-26T03:59:33" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-06-26T03:59:33" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#geoffrey32" },
+      "followedUser": { "S": "geoffrey32" },
+      "timestamp": { "S": "2018-05-21T00:41:12" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "0" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-07-14T10:21:01.png"
-      },
-      "timestamp": { "S": "2018-07-14T10:21:01" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-07-14T10:21:01" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#jacksonjason" },
+      "followedUser": { "S": "jacksonjason" },
+      "timestamp": { "S": "2019-02-27T14:36:28" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "0" },
-          "heart": { "N": "1" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-10-06T22:29:39.png"
-      },
-      "timestamp": { "S": "2018-10-06T22:29:39" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-10-06T22:29:39" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#natasha87" },
+      "followedUser": { "S": "natasha87" },
+      "timestamp": { "S": "2018-07-09T16:16:55" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "2" },
-          "+1": { "N": "1" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "3" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-11-13T08:23:00.png"
-      },
-      "timestamp": { "S": "2018-11-13T08:23:00" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-11-13T08:23:00" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#nmitchell" },
+      "followedUser": { "S": "nmitchell" },
+      "timestamp": { "S": "2018-06-26T15:26:51" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "0" },
-          "heart": { "N": "1" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-11-18T15:37:05.png"
-      },
-      "timestamp": { "S": "2018-11-18T15:37:05" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-11-18T15:37:05" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#ppierce" },
+      "followedUser": { "S": "ppierce" },
+      "timestamp": { "S": "2019-02-01T07:52:44" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "0" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2018-11-26T22:27:44.png"
-      },
-      "timestamp": { "S": "2018-11-26T22:27:44" },
-      "SK": { "S": "PHOTO#jacksonjason#2018-11-26T22:27:44" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#tmartinez" },
+      "followedUser": { "S": "tmartinez" },
+      "timestamp": { "S": "2018-11-28T08:08:26" }
     },
     {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "0" },
-          "+1": { "N": "2" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "1" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-01-02T05:09:04.png"
-      },
-      "timestamp": { "S": "2019-01-02T05:09:04" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-01-02T05:09:04" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "2" },
-          "+1": { "N": "0" },
-          "heart": { "N": "2" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-01-23T12:43:33.png"
-      },
-      "timestamp": { "S": "2019-01-23T12:43:33" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-01-23T12:43:33" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "0" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "0" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-03-03T02:00:01.png"
-      },
-      "timestamp": { "S": "2019-03-03T02:00:01" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-03-03T02:00:01" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "2" },
-          "heart": { "N": "1" },
-          "smiley": { "N": "2" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-03-03T18:20:10.png"
-      },
-      "timestamp": { "S": "2019-03-03T18:20:10" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-03-03T18:20:10" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "0" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "1" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-03-11T15:18:22.png"
-      },
-      "timestamp": { "S": "2019-03-11T15:18:22" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-03-11T15:18:22" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "0" },
-          "heart": { "N": "0" },
-          "smiley": { "N": "2" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-03-30T02:28:42.png"
-      },
-      "timestamp": { "S": "2019-03-30T02:28:42" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-03-30T02:28:42" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
-    },
-    {
-      "reactions": {
-        "M": {
-          "sunglasses": { "N": "1" },
-          "+1": { "N": "1" },
-          "heart": { "N": "1" },
-          "smiley": { "N": "2" }
-        }
-      },
-      "location": {
-        "S": "s3://quick-photos/photos/jacksonjason/2019-04-14T21:52:36.png"
-      },
-      "timestamp": { "S": "2019-04-14T21:52:36" },
-      "SK": { "S": "PHOTO#jacksonjason#2019-04-14T21:52:36" },
-      "username": { "S": "jacksonjason" },
-      "PK": { "S": "USER#jacksonjason" }
+      "SK": { "S": "#FRIEND#haroldwatkins" },
+      "followingUser": { "S": "haroldwatkins" },
+      "PK": { "S": "USER#vpadilla" },
+      "followedUser": { "S": "vpadilla" },
+      "timestamp": { "S": "2018-09-18T04:16:32" }
     }
   ],
-  "Count": 16,
-  "ScannedCount": 16,
+  "Count": 10,
+  "ScannedCount": 10,
   "ResponseMetadata": {
-    "RequestId": "2N0K4LQQ82BJ23GTF8MLCOQN3BVV4KQNSO5AEMVJF66Q9ASUAAJG",
+    "RequestId": "5NOVGGR01PAMDI3VGGBVE59A6NVV4KQNSO5AEMVJF66Q9ASUAAJG",
     "HTTPStatusCode": 200,
     "HTTPHeaders": {
       "server": "Server",
-      "date": "Fri, 22 Sep 2023 04:20:01 GMT",
+      "date": "Fri, 22 Sep 2023 06:44:40 GMT",
       "content-type": "application/x-amz-json-1.0",
-      "content-length": "5528",
+      "content-length": "1798",
       "connection": "keep-alive",
-      "x-amzn-requestid": "2N0K4LQQ82BJ23GTF8MLCOQN3BVV4KQNSO5AEMVJF66Q9ASUAAJG",
-      "x-amz-crc32": "2324204400"
+      "x-amzn-requestid": "5NOVGGR01PAMDI3VGGBVE59A6NVV4KQNSO5AEMVJF66Q9ASUAAJG",
+      "x-amz-crc32": "472853311"
     },
     "RetryAttempts": 0
   }
 }
+{
+    "Responses": {
+      "quick-photos": [
+        {
+          "following": { "N": "5" },
+          "followers": { "N": "7" },
+          "status": { "S": "Manager official his firm put its." },
+          "address": {
+            "S": "79888 Patel Shores Apt. 802\nBradleyfort, ND 76722"
+          },
+          "email": { "S": "boydmelissa@yahoo.com" },
+          "name": { "S": "Walter Carlson" },
+          "birthdate": { "S": "1904-09-01" },
+          "interests": {
+            "L": [{ "S": "view" }, { "S": "cost" }, { "S": "thus" }]
+          },
+          "SK": { "S": "#METADATA#natasha87" },
+          "username": { "S": "natasha87" },
+          "pinnedImage": { "S": "PHOTO#natasha87#2019-01-02T16:33:03" },
+          "PK": { "S": "USER#natasha87" }
+        },
+        {
+          "following": { "N": "11" },
+          "followers": { "N": "7" },
+          "status": { "S": "Base executive job style join." },
+          "address": {
+            "S": "2336 Blair Ways Apt. 688\nNew Jenniferton, TN 66445"
+          },
+          "email": { "S": "wadeandrew@yahoo.com" },
+          "name": { "S": "Leah Miller" },
+          "birthdate": { "S": "1932-02-16" },
+          "interests": {
+            "L": [{ "S": "future" }, { "S": "player" }, { "S": "social" }]
+          },
+          "SK": { "S": "#METADATA#chasevang" },
+          "username": { "S": "chasevang" },
+          "pinnedImage": { "S": "PHOTO#chasevang#2019-03-12T22:54:32" },
+          "PK": { "S": "USER#chasevang" }
+        },
+        {
+          "following": { "N": "7" },
+          "followers": { "N": "12" },
+          "status": { "S": "Check rule quality rather." },
+          "address": { "S": "344 Kelly Roads\nDavidbury, ID 16846" },
+          "email": { "S": "emoon@yahoo.com" },
+          "name": { "S": "Amanda Green" },
+          "birthdate": { "S": "1997-05-30" },
+          "interests": {
+            "L": [{ "S": "of" }, { "S": "indicate" }, { "S": "describe" }]
+          },
+          "SK": { "S": "#METADATA#nmitchell" },
+          "username": { "S": "nmitchell" },
+          "pinnedImage": { "S": "PHOTO#nmitchell#2018-09-08T13:56:30" },
+          "PK": { "S": "USER#nmitchell" }
+        },
+        {
+          "following": { "N": "11" },
+          "followers": { "N": "8" },
+          "status": { "S": "Carry office let network rise." },
+          "address": { "S": "93363 Harris Forge\nCatherinetown, MD 52299" },
+          "email": { "S": "jonesangel@gmail.com" },
+          "name": { "S": "Abigail Alvarez" },
+          "birthdate": { "S": "1965-03-17" },
+          "interests": {
+            "L": [{ "S": "big" }, { "S": "help" }, { "S": "read" }]
+          },
+          "SK": { "S": "#METADATA#david25" },
+          "username": { "S": "david25" },
+          "pinnedImage": { "S": "PHOTO#david25#2019-01-27T08:50:05" },
+          "PK": { "S": "USER#david25" }
+        },
+        {
+          "following": { "N": "7" },
+          "followers": { "N": "9" },
+          "status": { "S": "Your worker cut social mention north out." },
+          "address": {
+            "S": "1826 Heather Mission Suite 125\nNew Nicolemouth, MA 72663"
+          },
+          "email": { "S": "erin42@hotmail.com" },
+          "name": { "S": "John Perry" },
+          "birthdate": { "S": "1948-06-03" },
+          "interests": {
+            "L": [{ "S": "we" }, { "S": "serious" }, { "S": "that" }]
+          },
+          "SK": { "S": "#METADATA#jacksonjason" },
+          "username": { "S": "jacksonjason" },
+          "pinnedImage": { "S": "PHOTO#jacksonjason#2018-05-30T15:42:38" },
+          "PK": { "S": "USER#jacksonjason" }
+        },
+        {
+          "following": { "N": "5" },
+          "followers": { "N": "9" },
+          "status": { "S": "Family method serious." },
+          "address": { "S": "785 Garcia Greens Apt. 164\nDavidview, VA 77189" },
+          "email": { "S": "wjennings@gmail.com" },
+          "name": { "S": "Ernest Mccarty" },
+          "birthdate": { "S": "1929-06-18" },
+          "interests": {
+            "L": [{ "S": "father" }, { "S": "strategy" }, { "S": "important" }]
+          },
+          "SK": { "S": "#METADATA#ppierce" },
+          "username": { "S": "ppierce" },
+          "pinnedImage": { "S": "PHOTO#ppierce#2019-04-14T08:09:34" },
+          "PK": { "S": "USER#ppierce" }
+        },
+        {
+          "following": { "N": "7" },
+          "followers": { "N": "5" },
+          "status": { "S": "Respond rule yeah majority final way five indeed." },
+          "address": { "S": "109 Andrews Vista\nPort Alexis, CA 22556" },
+          "email": { "S": "danielpacheco@yahoo.com" },
+          "name": { "S": "Stephanie Fisher" },
+          "birthdate": { "S": "1951-02-13" },
+          "interests": {
+            "L": [{ "S": "computer" }, { "S": "matter" }, { "S": "east" }]
+          },
+          "SK": { "S": "#METADATA#frankhall" },
+          "username": { "S": "frankhall" },
+          "pinnedImage": { "S": "PHOTO#frankhall#2018-09-20T11:44:45" },
+          "PK": { "S": "USER#frankhall" }
+        },
+        {
+          "following": { "N": "13" },
+          "followers": { "N": "10" },
+          "status": { "S": "Fund after gas drug indicate result in." },
+          "address": {
+            "S": "25954 Heather Drive Apt. 609\nWarnermouth, ME 01956"
+          },
+          "email": { "S": "taylorvictor@yahoo.com" },
+          "name": { "S": "Mary Martin" },
+          "birthdate": { "S": "1981-08-30" },
+          "interests": {
+            "L": [{ "S": "democratic" }, { "S": "throw" }, { "S": "upon" }]
+          },
+          "SK": { "S": "#METADATA#geoffrey32" },
+          "username": { "S": "geoffrey32" },
+          "pinnedImage": { "S": "PHOTO#geoffrey32#2018-11-10T03:48:52" },
+          "PK": { "S": "USER#geoffrey32" }
+        },
+        {
+          "following": { "N": "8" },
+          "followers": { "N": "10" },
+          "status": { "S": "Front door every late public get happy." },
+          "address": { "S": "779 Ronald Lodge\nLake Zachary, TX 43897" },
+          "email": { "S": "kevinjackson@gmail.com" },
+          "name": { "S": "Jonathan Scott" },
+          "birthdate": { "S": "1966-12-01" },
+          "interests": {
+            "L": [{ "S": "should" }, { "S": "soon" }, { "S": "fill" }]
+          },
+          "SK": { "S": "#METADATA#vpadilla" },
+          "username": { "S": "vpadilla" },
+          "pinnedImage": { "S": "PHOTO#vpadilla#2019-03-15T09:33:12" },
+          "PK": { "S": "USER#vpadilla" }
+        },
+        {
+          "following": { "N": "7" },
+          "followers": { "N": "9" },
+          "status": { "S": "Sing husband edge ever government data bring." },
+          "address": {
+            "S": "200 Laura Key Suite 339\nPort Melissachester, VT 65917"
+          },
+          "email": { "S": "johnsonjoanna@yahoo.com" },
+          "name": { "S": "Kristin Stevens" },
+          "birthdate": { "S": "1940-03-03" },
+          "interests": {
+            "L": [{ "S": "leader" }, { "S": "resource" }, { "S": "end" }]
+          },
+          "SK": { "S": "#METADATA#tmartinez" },
+          "username": { "S": "tmartinez" },
+          "pinnedImage": { "S": "PHOTO#tmartinez#2018-12-31T05:51:42" },
+          "PK": { "S": "USER#tmartinez" }
+        }
+      ]
+    },
+    "UnprocessedKeys": {},
+    "ResponseMetadata": {
+      "RequestId": "25SQT13RE0B9V48U85NOJNSE8RVV4KQNSO5AEMVJF66Q9ASUAAJG",
+      "HTTPStatusCode": 200,
+      "HTTPHeaders": {
+        "server": "Server",
+        "date": "Fri, 22 Sep 2023 06:44:40 GMT",
+        "content-type": "application/x-amz-json-1.0",
+        "content-length": "4797",
+        "connection": "keep-alive",
+        "x-amzn-requestid": "25SQT13RE0B9V48U85NOJNSE8RVV4KQNSO5AEMVJF66Q9ASUAAJG",
+        "x-amz-crc32": "3543779607"
+      },
+      "RetryAttempts": 0
+    }
+  }
